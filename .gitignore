@@ -1,0 +1,11 @@
+.svn
+.classpath
+.project
+*.exe
+.idea
+Datas
+*.mp3
+__pycache__
+.vscode
+dist
+build
